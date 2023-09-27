@@ -2,3 +2,4 @@ My Skill in HTML is 97%.
 my skill in CSS is 80%.
 my bootstarp skill is 85%.
 My tailwincss skill is 75%.
+My git and github skill85%.
