@@ -4,3 +4,4 @@ my bootstarp skill is 85%.
 My tailwincss skill is 75%.
 My git and github skill85%.
 logo alignment is centered
+This is added data form main brnach.
